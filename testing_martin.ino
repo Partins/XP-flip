@@ -20,7 +20,7 @@ const char* password = "PASSWORD";
 
 const char* PARAM_INPUT_1 = "input1";
 
-// HTML web page to handle 3 input fields (input1, input2, input3)
+// HTML web page to handle 1 input fields
 const char index_html[] PROGMEM = R"rawliteral(
 <!DOCTYPE HTML><html><head>
   <title>ESP Input Form</title>
